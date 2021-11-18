@@ -1,0 +1,118 @@
+{
+    "revenues": {
+        "categories": ["Unearned Revenue", "Collection", "Revenue"],
+        "values": [
+            {
+                "date": "1230674400000",
+                "Unearned Revenue": 59,
+                "Collection": 64,
+                "Revenue": 57
+            },
+            {
+                "date": "1262210400000",
+                "Unearned Revenue": 59,
+                "Collection": 64,
+                "Revenue": 57
+            },
+            {
+                "date": "1293746400000",
+                "Unearned Revenue": 59,
+                "Collection": 64,
+                "Revenue": 57
+            },
+            {
+                "date": "1325282400000",
+                "Unearned Revenue": 59,
+                "Collection": 64,
+                "Revenue": 57
+            },
+            {
+                "date": "1356904800000",
+                "Unearned Revenue": 59,
+                "Collection": 64,
+                "Revenue": 57
+            }
+            
+        ]
+    },
+    "tariffs": {
+        "categories": ["Tariff-1", "Tariff-2", "Tariff-3", "Tariff-4"],
+        "values": [
+            {
+                "date": "1612044000000",
+                "Tariff-1": 44,
+                "Tariff-2": 23,
+                "Tariff-3": 44,
+                "Tariff-4": 23
+            },
+            {
+                "date": "1614463200000",
+                "Tariff-1": 85,
+                "Tariff-2": 86,
+                "Tariff-3": 44,
+                "Tariff-4": 60
+            },
+            {
+                "date": "1617141600000",
+                "Tariff-1": 27,
+                "Tariff-2": 54,
+                "Tariff-3": 50,
+                "Tariff-4": 23
+            },
+            {
+                "date": "1619733600000",
+                "Tariff-1": 93,
+                "Tariff-2": 20,
+                "Tariff-3": 80,
+                "Tariff-4": 50
+            }
+        ]
+    },
+    "cost-vs-revenue": {
+        "categories": ["Cost", "Revenue"],
+        "values": [
+            {
+                "date": "1612044000000",
+                "Cost":4400,
+                "Revenue": 2300
+            },
+            {
+                "date": "1614463200000",
+                "Cost":9500,
+                "Revenue": 5600
+            },
+            {
+                "date": "1617141600000",
+                "Cost":4000,
+                "Revenue": 6000
+            },
+            {
+                "date": "1619733600000",
+                "Cost":5000,
+                "Revenue": 8000
+            }
+        ]
+    },
+    "collection": {
+        "categories": ["Compounds", "Businesses", "Personal"],
+        "values": [
+            {
+                "type": "Compounds",
+                "value": 6000
+            },
+            {
+                "type": "Businesses",
+                "value": 6000
+            },
+            {
+                "type": "Personal",
+                "value": 6000
+            }
+        ]
+    },
+    "crm-stats": {
+        "contractsToday": 350,
+        "resolutionTime": 400,
+        "openComplaints": 80
+    }
+  }
