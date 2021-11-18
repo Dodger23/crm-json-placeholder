@@ -1,36 +1,31 @@
 {
-    "revenues": {
-        "categories": ["Unearned Revenue", "Collection", "Revenue"],
+    "complaints": {
+        "categories": ["Open", "Close"],
         "values": [
             {
                 "date": "1230674400000",
-                "Unearned Revenue": 59,
-                "Collection": 64,
-                "Revenue": 57
+                "Open": 59,
+                "Close": 64
             },
             {
                 "date": "1262210400000",
-                "Unearned Revenue": 59,
-                "Collection": 64,
-                "Revenue": 57
+                "Open": 59,
+                "Close": 64
             },
             {
                 "date": "1293746400000",
-                "Unearned Revenue": 59,
-                "Collection": 64,
-                "Revenue": 57
+                "Open": 59,
+                "Close": 64
             },
             {
                 "date": "1325282400000",
-                "Unearned Revenue": 59,
-                "Collection": 64,
-                "Revenue": 57
+                "Open": 59,
+                "Close": 64
             },
             {
                 "date": "1356904800000",
-                "Unearned Revenue": 59,
-                "Collection": 64,
-                "Revenue": 57
+                "Open": 59,
+                "Close": 64
             }
             
         ]
