@@ -93,19 +93,19 @@
             }
         ]
     },
-    "collection": {
-        "categories": ["Compounds", "Businesses", "Personal"],
+    "complaints-by-type": {
+        "categories": ["A", "B", "C"],
         "values": [
             {
-                "type": "Compounds",
+                "type": "A",
                 "value": 6000
             },
             {
-                "type": "Businesses",
+                "type": "B",
                 "value": 6000
             },
             {
-                "type": "Personal",
+                "type": "C",
                 "value": 6000
             }
         ]
