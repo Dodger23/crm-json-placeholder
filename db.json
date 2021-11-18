@@ -30,61 +30,23 @@
             
         ]
     },
-    "tariffs": {
-        "categories": ["Tariff-1", "Tariff-2", "Tariff-3", "Tariff-4"],
+    "daily-contracts": {
         "values": [
             {
                 "date": "1612044000000",
-                "Tariff-1": 44,
-                "Tariff-2": 23,
-                "Tariff-3": 44,
-                "Tariff-4": 23
+                "value":440
             },
             {
                 "date": "1614463200000",
-                "Tariff-1": 85,
-                "Tariff-2": 86,
-                "Tariff-3": 44,
-                "Tariff-4": 60
+                "value": 560
             },
             {
                 "date": "1617141600000",
-                "Tariff-1": 27,
-                "Tariff-2": 54,
-                "Tariff-3": 50,
-                "Tariff-4": 23
+                "value": 6000
             },
             {
                 "date": "1619733600000",
-                "Tariff-1": 93,
-                "Tariff-2": 20,
-                "Tariff-3": 80,
-                "Tariff-4": 50
-            }
-        ]
-    },
-    "cost-vs-revenue": {
-        "categories": ["Cost", "Revenue"],
-        "values": [
-            {
-                "date": "1612044000000",
-                "Cost":4400,
-                "Revenue": 2300
-            },
-            {
-                "date": "1614463200000",
-                "Cost":9500,
-                "Revenue": 5600
-            },
-            {
-                "date": "1617141600000",
-                "Cost":4000,
-                "Revenue": 6000
-            },
-            {
-                "date": "1619733600000",
-                "Cost":5000,
-                "Revenue": 8000
+                "value": 8000
             }
         ]
     },
