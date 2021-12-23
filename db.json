@@ -33,19 +33,19 @@
         "data": [
             {
                 "month": "12-2021",
-                "dailyContract": 7000
+                "dailyContracts": 7000
             },
             {
                 "month": "11-2021",
-                "dailyContract": 1500
+                "dailyContracts": 1500
             },
             {
                 "month": "10-2021",
-                "dailyContract": 6000
+                "dailyContracts": 6000
             },
             {
                 "month": "09-2021",
-                "dailyContract": 8000
+                "dailyContracts": 8000
             }
         ]
     },
