@@ -1,31 +1,30 @@
 {
     "complaints": {
-        "categories": ["Open", "Close"],
-        "values": [
+        "data": [
             {
-                "date": "1230674400000",
-                "Open": 59,
-                "Close": 64
+                "month": "12-2021",
+                "open": 59,
+                "closed": 64
             },
             {
-                "date": "1262210400000",
-                "Open": 59,
-                "Close": 64
+                "month": "11-2021",
+                "open": 59,
+                "closed": 64
             },
             {
-                "date": "1293746400000",
-                "Open": 59,
-                "Close": 64
+                "month": "10-2021",
+                "open": 59,
+                "closed": 64
             },
             {
-                "date": "1325282400000",
-                "Open": 59,
-                "Close": 64
+                "month": "09-2021",
+                "open": 59,
+                "closed": 64
             },
             {
-                "date": "1356904800000",
-                "Open": 59,
-                "Close": 64
+                "month": "08-2021",
+                "open": 59,
+                "closed": 64
             }
             
         ]
