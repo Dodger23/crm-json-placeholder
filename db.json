@@ -30,22 +30,22 @@
         ]
     },
     "daily-contracts": {
-        "values": [
+        "data": [
             {
-                "date": "1635717600000",
-                "value": 7000
+                "month": "12-2021",
+                "dailyContract": 7000
             },
             {
-                "date": "1635804000000",
-                "value": 1500
+                "month": "11-2021",
+                "dailyContract": 1500
             },
             {
-                "date": "1635890400000",
-                "value": 6000
+                "month": "10-2021",
+                "dailyContract": 6000
             },
             {
-                "date": "1635976800000",
-                "value": 8000
+                "month": "09-2021",
+                "dailyContract": 8000
             }
         ]
     },
