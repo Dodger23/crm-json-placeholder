@@ -66,8 +66,10 @@
         ]
     },
     "crm-stats": {
-        "contractsToday": 350,
-        "resolutionTime": 400,
-        "openComplaints": 80
+        "data": {
+             "contractsToday": 350,
+            "resolutionTime": 400,
+            "openComplaints": 80
+        }
     }
   }
