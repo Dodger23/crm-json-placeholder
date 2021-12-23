@@ -50,18 +50,17 @@
         ]
     },
     "complaints-by-type": {
-        "categories": ["A", "B", "C"],
-        "values": [
+        "data": [
             {
-                "type": "A",
+                "type": "Complaint A",
                 "value": 6000
             },
             {
-                "type": "B",
+                "type": "Complaint B",
                 "value": 6000
             },
             {
-                "type": "C",
+                "type": "Complaint C",
                 "value": 6000
             }
         ]
